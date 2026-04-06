@@ -57,3 +57,8 @@ Questo progetto è stato sviluppato come parte di un progetto universitario da:
 
 Sono benvenuti contributi e suggerimenti per migliorare questo progetto. Sentiti libero di aprire una nuova issue o una pull request.
 
+# IMPORTANTE
+Questa è una copia personale della repository originale! Questo progetto è stato sviluppato assieme a https://github.com/Adri261
+
+
+
